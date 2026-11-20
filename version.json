@@ -1,1 +1,1 @@
-{"version": "1.26.3", "download": "StudyHub_Mac.zip", "notes": "AI Assistant adds assignments correctly with Apple's on-device AI, Cancel really discards step changes, importing a spreadsheet skips assignments you already have, plus clearer Settings, AI Off, and color fixes."}
+{"version": "1.26.4", "download": "StudyHub_Mac.zip", "notes": "When the AI asks which class an assignment is for, your short answer now fills in the card right away, plus a more readable Today tag in light mode."}
